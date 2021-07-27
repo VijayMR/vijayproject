@@ -10,6 +10,8 @@ public class Evencount {
 			
 		}
 		System.out.println("Count of even number is "+j);
+		System.out.println("Count of even number is "+j);
+		System.out.println("Count of even number is "+j);
 	}
 
 }
